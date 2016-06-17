@@ -1,0 +1,8 @@
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\bin\Debug\CharacterBuilder.exe.config
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\bin\Debug\CharacterBuilder.exe
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\bin\Debug\CharacterBuilder.pdb
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\obj\Debug\CharacterBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\obj\Debug\CharacterBuilder.Properties.Resources.resources
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\obj\Debug\CharacterBuilder.csproj.GenerateResource.Cache
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\obj\Debug\CharacterBuilder.exe
+C:\Users\Lotos\Desktop\Repos\TheEmeraldGit\CharacterBuilder\CharacterBuilder\obj\Debug\CharacterBuilder.pdb
