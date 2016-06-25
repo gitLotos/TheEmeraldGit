@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using CharacterBuilder.Character;
+using CharacterBuilder.Classes;
 
 namespace CharacterBuilder
 {
@@ -12,12 +12,11 @@ namespace CharacterBuilder
         [STAThread]
         static void Main()
         {
-
-            var mychar = new Character.Char();
-
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
+
+            Character Derpy = new Character();
         }
     }
 }
